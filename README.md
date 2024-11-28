@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 
 
 ### 🌟 Codewars Profile
-![Codewars Badge](https://www.codewars.com/users/permoK/badges/large)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=permoK&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
