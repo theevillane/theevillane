@@ -81,14 +81,8 @@
 <h2 align="center">📺 Social Badges</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCvWOXCh0MM4aFukIkb-zgQw?style=social" alt="YouTube Subscribers"/>
-  </a>
-  <a href="https://www.instagram.com/sudo_xploit/">
+  <a href="https://www.instagram.com/_ochiengbrian/">
     <img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=social&logo=instagram" alt="Instagram Follow"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
-    <img src="https://img.shields.io/badge/WhatsApp-Join-25D366?style=social&logo=whatsapp" alt="WhatsApp Channel"/>
   </a>
 </p>
 
