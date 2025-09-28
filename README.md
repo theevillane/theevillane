@@ -1,57 +1,137 @@
-<!--## Hi there 👋 -->
 
-<!--
-**theevillane/theevillane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hi there, I'm <a href="https://github.com/theevillane">Ochieng Brian</a> 
+  </h1>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Tech Stack
+<p align='center'>
+  <a href="https://www.instagram.com/sudo_xploit/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true" alt="Instagram"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true" alt="YouTube"></a>&nbsp;&nbsp;
+  <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true" alt="WhatsApp"></a>&nbsp;&nbsp;
+  <a href="mailto:thakuralok210@gmail.com"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="Email"></a>&nbsp;&nbsp;
+</p>
 
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/gunicorn-3670A0?style=for-the-badge&logo=gunicorn&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SCSS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![REST API](https://img.shields.io/badge/rest_api-005571?style=for-the-badge&logo=rest-api&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/django_rest_framework-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![EC2](https://img.shields.io/badge/amazon_ec2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/kali_linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+---
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Brian Ochieng | 💻 Cybersecurity Researcher | Kenya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+<p align="center">
+  <a href="https://visitor-badge.glitch.me/badge?page_id=theevillane.theevillane"> 
+  </a>
+</p>
+
+<h5 align="center">
+  <i>⚡️I don’t trust people who have all ports closed⚡️</i>
+</h5>
+
+<br />
+
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
+  <h3>I'm Brian Ochieng, Full-Stack developer from Kenya.</h3>
+</p>
+
+- 🥀 Learning Swift & Objective_C  
+- <i>with JavaScript, C++, Python and other technologies.</i>  
+- 🔭 SpaceX FanBoi, die for space😼  
+- 🛸 Into High Energy Physics and Astrophysics  
+- I do fullstack and a bit of everything :heart:  
+- All About living life at its best. 
+---
+## 📬 Connect with Me  
+
+<p align="center">
+  <a href="https://www.instagram.com/sudo_xploit?igsh=MWN0YWc3N2JyenhoNw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:brianochiengonyango2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <h3>📊 GitHub Stats</h3>
+  <a href="https://github.com/theevillane">
+    <img src="https://github-readme-stats.vercel.app/api?username=theevillane&show_icons=true&theme=radical&count_private=true" alt="Theevillane GitHub Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <h3>💻 Top Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theevillane&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <h3>🌍 GitHub Visitor Map</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=theevillane&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" alt="Visitor Stats"/>
+</p>
+
+<p align="center">
+  <h3>🔥 GitHub Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theevillane&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+<h2 align="center">📺 Social Badges</h2>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCvWOXCh0MM4aFukIkb-zgQw?style=social" alt="YouTube Subscribers"/>
+  </a>
+  <a href="https://www.instagram.com/sudo_xploit/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=social&logo=instagram" alt="Instagram Follow"/>
+  </a>
+  <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
+    <img src="https://img.shields.io/badge/WhatsApp-Join-25D366?style=social&logo=whatsapp" alt="WhatsApp Channel"/>
+  </a>
+</p>
+
+---
+
+### - Languages and Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin:4px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="margin:4px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="margin:4px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin:4px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin:4px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin:4px"/>  
+</p>
 
 
-### 🌟 Codewars Profile
-![Codewars Badge](https://www.codewars.com/users/theevillane/badges/large)
+---
+### - Tools & Frameworks
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=theevillane&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=theevillane&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theevillane&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin:4px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin:4px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="margin:4px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="margin:4px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="margin:4px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="margin:4px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="margin:4px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="margin:4px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="margin:4px"/>  
+</p>
 
+---
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=theevillane&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<h2 align="center">🤝 Support</h2>
+<p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+<p align="center">Made with ❤️ in Kenya</p>
 
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
