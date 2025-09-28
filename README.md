@@ -44,7 +44,7 @@
 ## 📬 Connect with Me  
 
 <p align="center">
-  <a href="https://www.instagram.com/sudo_xploit?igsh=MWN0YWc3N2JyenhoNw==" target="_blank">
+  <a href="https://www.instagram.com/_ochiengbrian/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F" target="_blank">
