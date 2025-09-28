@@ -1,4 +1,4 @@
-
+      
 <div align="center">
   <h1>Hi there, I'm <a href="https://github.com/theevillane">Ochieng Brian</a> 
   </h1>
@@ -31,7 +31,7 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3>I'm Brian Ochieng, Full-Stack developer from Kenya.</h3>
+  <h3>I'm Brian Ochieng, Networking Researcher from Kenya.</h3>
 </p>
 
 - 🥀 Learning Swift & Objective_C  
